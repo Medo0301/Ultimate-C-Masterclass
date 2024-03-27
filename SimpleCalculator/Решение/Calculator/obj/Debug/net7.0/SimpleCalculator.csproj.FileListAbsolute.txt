@@ -1,0 +1,15 @@
+C:\Users\Admin\Desktop\C#\Ultimate C# Masterclass\Кодове по време на лекциите\First C# program\Calculator\bin\Debug\net7.0\SimpleCalculator.exe
+C:\Users\Admin\Desktop\C#\Ultimate C# Masterclass\Кодове по време на лекциите\First C# program\Calculator\bin\Debug\net7.0\SimpleCalculator.deps.json
+C:\Users\Admin\Desktop\C#\Ultimate C# Masterclass\Кодове по време на лекциите\First C# program\Calculator\bin\Debug\net7.0\SimpleCalculator.runtimeconfig.json
+C:\Users\Admin\Desktop\C#\Ultimate C# Masterclass\Кодове по време на лекциите\First C# program\Calculator\bin\Debug\net7.0\SimpleCalculator.dll
+C:\Users\Admin\Desktop\C#\Ultimate C# Masterclass\Кодове по време на лекциите\First C# program\Calculator\bin\Debug\net7.0\SimpleCalculator.pdb
+C:\Users\Admin\Desktop\C#\Ultimate C# Masterclass\Кодове по време на лекциите\First C# program\Calculator\obj\Debug\net7.0\SimpleCalculator.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\C#\Ultimate C# Masterclass\Кодове по време на лекциите\First C# program\Calculator\obj\Debug\net7.0\SimpleCalculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Admin\Desktop\C#\Ultimate C# Masterclass\Кодове по време на лекциите\First C# program\Calculator\obj\Debug\net7.0\SimpleCalculator.AssemblyInfoInputs.cache
+C:\Users\Admin\Desktop\C#\Ultimate C# Masterclass\Кодове по време на лекциите\First C# program\Calculator\obj\Debug\net7.0\SimpleCalculator.AssemblyInfo.cs
+C:\Users\Admin\Desktop\C#\Ultimate C# Masterclass\Кодове по време на лекциите\First C# program\Calculator\obj\Debug\net7.0\SimpleCalculator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\C#\Ultimate C# Masterclass\Кодове по време на лекциите\First C# program\Calculator\obj\Debug\net7.0\SimpleCalculator.dll
+C:\Users\Admin\Desktop\C#\Ultimate C# Masterclass\Кодове по време на лекциите\First C# program\Calculator\obj\Debug\net7.0\refint\SimpleCalculator.dll
+C:\Users\Admin\Desktop\C#\Ultimate C# Masterclass\Кодове по време на лекциите\First C# program\Calculator\obj\Debug\net7.0\SimpleCalculator.pdb
+C:\Users\Admin\Desktop\C#\Ultimate C# Masterclass\Кодове по време на лекциите\First C# program\Calculator\obj\Debug\net7.0\SimpleCalculator.genruntimeconfig.cache
+C:\Users\Admin\Desktop\C#\Ultimate C# Masterclass\Кодове по време на лекциите\First C# program\Calculator\obj\Debug\net7.0\ref\SimpleCalculator.dll
